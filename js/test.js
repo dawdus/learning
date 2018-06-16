@@ -1,0 +1,1 @@
+var string:String = "Hello World";
